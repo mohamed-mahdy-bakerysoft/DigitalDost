@@ -19,7 +19,7 @@ body {
 }
 
 .hero {
-    background-image: url('fff.jpg'); /* Replace with optimized image path */
+    background-image: url('fff.webp'); /* Replace with optimized image path */
     background-size: cover;
     background-position: center;
     position: relative;
